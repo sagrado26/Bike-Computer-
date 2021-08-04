@@ -5,7 +5,7 @@ Second Year Project -
 By: Carl Sagrado
 
 
-Bike computer is an electronic device that is used in monitoring the speed of the bicycle as it travels 
+Bike computer is an electronic device used in monitoring the speed of the bicycle as it travels 
 over a distance. This device is perfect for tracking how fast and how long a bike user has been on the road. A 
 must-have device for cyclist that allows you to determine the speed through the LCD display which can 
 be a fantastic motivation tool when working out. This device can also serve as a reminder in regard to
