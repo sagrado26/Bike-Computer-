@@ -1,8 +1,12 @@
 # Bike-Computer-
 
-IT Tallaght - Department of Electronic Engineering 
-Second Year Project - 
-By: Carl Sagrado
+Project Name: Bike Computer
+by: Carl Sagrado
+Skills Required: Hardware and Software
+Programming Language: C++
+Institution: Institute of Technology Tallaght
+Department: Department of Engineering
+*Second Year Project*
 
 
 Bike computer is an electronic device used in monitoring the speed of the bicycle as it travels 
