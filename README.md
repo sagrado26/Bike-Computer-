@@ -1,7 +1,7 @@
 # Bike-Computer-
 
 Bike computer is an electronic device that is used in monitoring the speed of the bicycle as it travels 
-over a distance. This device is perfect for tracking how fast and how long they’ve been on the road. A 
+over a distance. This device is perfect for tracking how fast and how long a bike user has been on the road. A 
 must-have device for cyclist that allows you to determine the speed through the LCD display which can 
 be a fantastic motivation tool when working out. This device can also serve as a reminder in regard to
 safety for cyclist on the road to remind themselves of the speed they are going at in order to avoid road 
